@@ -1,2 +1,3 @@
 # my_project
-for a test
+创建于2024-05-15 /n
+这是一个为练习git而创建的仓库。
