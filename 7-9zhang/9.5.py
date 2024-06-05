@@ -24,15 +24,27 @@ from random import choice
 # die.roll_die()
 
 
-caipiao=["1", "22", "33", "44", "5", "66", "77", "88", "10", "50", "H", "J", "G", "A", "B"]
-my_ticket=["22", "33", "A", "44"]
-caipiao_send=[]
+# caipiao=["1", "22", "33", "44", "5", "66", "77", "88", "10", "50", "H", "J", "G", "A", "B"]
+# my_ticket=["22", "33", "A", "44"]
+# y = 0
+# def get_caipiao(caipiao_list):
+#     i = 0
+#     caipiao_send=[]
+#     while i < 4:
+#         caipiaoget=choice(caipiao_list)
+#         caipiao_send.append(caipiaoget)
+#         i+=1
+#     return caipiao_send
 
-i = 0
-while True:
-    if caipiao_send = 
-    send=choice(caipiao)
-    caipiao_send.append(send)
-    
+# result=True
+# while result:
+#     caipiaoget=get_caipiao(caipiao)
+#     y+=1
+#     if caipiaoget == my_ticket:
+#         print(f"you list{my_ticket} \n caipiao list {caipiaoget}")
+#         print("ohhhhhhhhhhhhhh")
+#         break
+#     else:
+#         result =True
 
-print(caipiao_send)
+
